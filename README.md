@@ -1,0 +1,1 @@
+Learning how to use pygame by coding the Flappy Bird game.
